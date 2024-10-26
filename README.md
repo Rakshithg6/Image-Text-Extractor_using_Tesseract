@@ -21,3 +21,7 @@
 3. **Python Packages**: Install the required Python libraries.
    ```bash
    pip install pytesseract pillow
+
+---
+
+This README file provides all the essential information for users to set up, run, and contribute to your project.
